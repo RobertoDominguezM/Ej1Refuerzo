@@ -1,0 +1,21 @@
+#izq{
+    float: left;
+    text-align: center;
+    height: 10%;
+    width: 49%;
+    border: 1px red solid;
+}
+#der{
+    float: right;
+    text-align: center;
+    height: 10%;
+    width: 49%;
+    border: 1px blue solid;
+}
+table, tr, td{
+    clear: both;
+    border: 1px black solid;
+    border-collapse: collapse;
+    display: flex;
+    align-items: center;
+}
