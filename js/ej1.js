@@ -21,3 +21,6 @@ function crearNuevaTabla(datosTabla){
         
     }
 }
+function introdocirDatos(){
+    
+}
